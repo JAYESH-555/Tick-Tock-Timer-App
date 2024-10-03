@@ -2,6 +2,12 @@
 
 Welcome to TickTock Timer! A simple yet powerful countdown timer app to keep track of important events. Built using React, it offers a clean and user-friendly interface with customizable time inputs and stylish alerts. Perfect for deadlines, meetings, and more! 🎯
 
+# 🌐 Deployment
+
+The app is deployed on Vercel for easy access:
+
+Check out the live version here: [Tick-Tock Timer](https://tick-tock-timer-app-jayesh-555s-projects.vercel.app/)
+
 # 🎨 Features
 
 🕒 Countdown Timer: Track days, hours, minutes, and seconds until your set time.
